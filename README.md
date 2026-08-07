@@ -84,6 +84,39 @@ Sistema com hierarquia entre coordenadores e supervisores, simulação de propos
 
 ---
 
-## 📫 Contato
+## 🌐 Contato
 
-💼 LinkedIn • 🌐 Portfólio • ✉️ E-mail
+<br>
+
+<div align="left">
+
+  <a href="SEU_LINK_DO_INSTAGRAM" target="_blank">
+    <img 
+      alt="Instagram"
+      title="Instagram"
+      width="48px"
+      src="https://cdn.simpleicons.org/instagram/E4405F"
+    />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
+    <img 
+      alt="LinkedIn"
+      title="LinkedIn"
+      width="48px"
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:SEU_EMAIL">
+    <img 
+      alt="E-mail"
+      title="E-mail"
+      width="48px"
+      src="https://cdn.simpleicons.org/gmail/EA4335"
+    />
+  </a>
+
+</div>
