@@ -11,21 +11,42 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e tenho foco e
 ## 🚀 Principais Projetos
 
 ### 🏠 DOMU
-<img src="./assets/logo-domu.svg" width="100%" alt="DOMU">
 
-CRM, gestão de leads, simulador de propostas, vendas, comissões, financeiro e controle de assinaturas.
+<p align="center">
+  <img src="./assets/domu.png" width="100%" alt="DOMU">
+</p>
 
-`React` `TypeScript` `Node.js` `PostgreSQL` `Supabase`
+**Plataforma SaaS voltada para gestão comercial imobiliária.**
+
+CRM, gestão de leads, simulações, propostas, vendas, comissões, financeiro e controle de assinaturas.
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28px" title="React"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28px" title="TypeScript"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="28px" title="Node.js"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="28px" title="PostgreSQL"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="28px" title="Supabase"/>
+
+<br><br>
 
 ---
 
 ### 📊 DOMU Simulador
+
 **Sistema de simulação e gestão comercial imobiliária.**
 
-Hierarquia entre coordenadores e supervisores, simulação de propostas, acompanhamento de performance e rastreabilidade comercial.
+Gestão hierárquica de equipes, propostas, performance comercial e rastreabilidade de operações.
 
-`React` `TypeScript` `Node.js` `PostgreSQL`
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28px"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28px"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="28px"/>
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="28px"/>
 ---
 
 ## 🤖 Linguagens e Tecnologias
