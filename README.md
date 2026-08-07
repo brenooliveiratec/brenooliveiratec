@@ -20,9 +20,15 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e tenho foco e
 
 CRM, gestão de leads, simulações, propostas, vendas, comissões, financeiro e controle de assinaturas.
 
+**Minha atuação:** idealização, arquitetura e desenvolvimento Full Stack da plataforma.
+
+<br>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28px" title="React"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28px" title="TypeScript"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="28px" title="Node.js"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="28px" title="PostgreSQL"/> &nbsp; <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="28px" title="Supabase"/>
 
 <br><br>
+
+[🌐 Ver projeto](LINK) • [📖 Ver case completo](LINK-DO-PORTFOLIO)
 
 ---
 
