@@ -11,7 +11,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e tenho foco e
 ## 🚀 Principais Projetos
 
 ### 🏠 DOMU
-<img src="./assets/domu.svg" width="700"/>
+<img src="./assets/domu.svg" width="100%" alt="DOMU">
 
 CRM, gestão de leads, simulador de propostas, vendas, comissões, financeiro e controle de assinaturas.
 
