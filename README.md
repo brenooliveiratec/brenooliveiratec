@@ -13,7 +13,7 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e tenho foco e
 ### 🏠 DOMU
 
 <p align="center">
-  <img src="./assets/banner-domu.png" width="100%" alt="DOMU">
+  <img src="./assets/domu-banner.png" width="700" alt="DOMU">
 </p>
 
 **Plataforma SaaS voltada para gestão comercial imobiliária.**
