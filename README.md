@@ -32,14 +32,27 @@ CRM, gestão de leads, simulações, propostas, vendas, comissões, financeiro e
 
 ---
 
+---
+
 ### 📊 DOMU Simulador
 
-**Sistema de simulação e gestão comercial imobiliária.**
+<p align="center">
+  <img src="./assets/domu-simulador-banner.png" width="700" alt="DOMU Simulador">
+</p>
 
-Gestão hierárquica de equipes, propostas, performance comercial e rastreabilidade de operações.
+**Plataforma desenvolvida sob demanda para gestão e simulação comercial imobiliária.**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28px"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28px"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="28px"/> &nbsp <imgsrc="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="28px"/>
----
+Sistema com hierarquia entre coordenadores e supervisores, simulação de propostas, acompanhamento de performance e rastreabilidade das operações comerciais.
+
+**Minha atuação:** arquitetura e desenvolvimento Full Stack da solução, desde a estrutura de dados e regras de negócio até a interface da plataforma.
+
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28px" title="React"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28px" title="TypeScript"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="28px" title="Node.js"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="28px" title="PostgreSQL"/> &nbsp; <img src="https://cdn.simpleicons.org/supabase/3FCF8E" width="28px" title="Supabase"/>
+
+<br><br>
+
+[📖 Ver case completo](LINK-DO-PORTFOLIO)
 
 ## 🤖 Linguagens e Tecnologias
 
