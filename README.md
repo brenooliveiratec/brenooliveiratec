@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Olá, eu sou Breno Oliveira!
 
-<!--
-**brenooliveiratec/brenooliveiratec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedor Full Stack
 
-Here are some ideas to get you started:
+Desenvolvo aplicações web completas, trabalhando com **Front-end, Back-end, APIs e Banco de Dados**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e tenho foco em criar soluções reais, principalmente sistemas SaaS e aplicações voltadas para negócios.
+
+---
+
+## 🚀 Principais Projetos
+
+### 🏠 DOMU
+<img src="./assets/domu.svg" width="700"/>
+
+CRM, gestão de leads, simulador de propostas, vendas, comissões, financeiro e controle de assinaturas.
+
+`React` `TypeScript` `Node.js` `PostgreSQL` `Supabase`
+
+---
+
+### 📊 DOMU Simulador
+**Sistema de simulação e gestão comercial imobiliária.**
+
+Hierarquia entre coordenadores e supervisores, simulação de propostas, acompanhamento de performance e rastreabilidade comercial.
+
+`React` `TypeScript` `Node.js` `PostgreSQL`
+
+---
+
+## 🧰 Tecnologias
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,postgres,supabase,tailwind,vite,git,github,vercel" />
+</p>
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn • 🌐 Portfólio • ✉️ E-mail
