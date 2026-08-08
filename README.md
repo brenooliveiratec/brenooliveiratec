@@ -1,10 +1,10 @@
 # Breno Oliveira
 
-### 💻 Desenvolvedor Full Stack
+### 💻 Desenvolvedor Full Stack em formação • Sistemas Web • SaaS
 
-Desenvolvo aplicações web e sistemas SaaS, atuando do **Front-end ao Back-end**, incluindo APIs, regras de negócio e bancos de dados.
+Curso **Análise e Desenvolvimento de Sistemas (ADS)** e venho desenvolvendo projetos práticos com foco em aplicações web completas, envolvendo **Front-end, Back-end, APIs, regras de negócio e Banco de Dados**.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas (ADS)** e tenho foco na construção de soluções reais para negócios.
+Tenho interesse em transformar problemas reais em soluções digitais, buscando evoluir principalmente em **desenvolvimento Full Stack e arquitetura de aplicações**.
 
 ---
 
