@@ -88,34 +88,34 @@ Sistema com hierarquia entre coordenadores e supervisores, simulação de propos
 
 <br>
 
-<div align="left">
+<p align="left">
 
-  <a href="SEU_LINK_DO_INSTAGRAM" target="_blank">
-    <img 
+  <a href="https://www.instagram.com/breno_one/" target="_blank">
+    <img
+      src="https://img.icons8.com/fluency/96/instagram-new.png"
+      width="52"
       alt="Instagram"
       title="Instagram"
-      width="48px"
-      src="https://cdn.simpleicons.org/instagram/E4405F"
     />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
 
-  <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
-    <img 
+  <a href="SEU_LINK_DO_LINKEDIN">
+    <img
+      src="https://img.icons8.com/fluency/96/linkedin.png"
+      width="52"
       alt="LinkedIn"
       title="LinkedIn"
-      width="48px"
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
     />
   </a>
-  &nbsp;&nbsp;
+   &nbsp;
 
-  <a href="mailto:SEU_EMAIL">
-    <img 
-      alt="E-mail"
+  <a href="mailto:brenooliveiraec@gmail.com">
+    <img
+      src="https://img.icons8.com/color/96/gmail-new.png"
+      width="52"
+      alt="Gmail"
       title="E-mail"
-      width="48px"
-      src="https://cdn.simpleicons.org/gmail/EA4335"
     />
   </a>
 
