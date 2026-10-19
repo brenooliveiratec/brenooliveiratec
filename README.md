@@ -59,33 +59,19 @@ A solução centraliza **pedidos, mesas, cardápio, estoque, caixa e atendimento
 <div align="left">
   <img alt="React" title="React" width="42px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  &nbsp;&nbsp;
-
-  <img alt="TypeScript" title="TypeScript" width="42px"
+  &nbsp;&nbsp; <img alt="TypeScript" title="TypeScript" width="42px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  &nbsp;&nbsp;
-
-  <img alt="Node.js" title="Node.js" width="42px"
+  &nbsp;&nbsp; <img alt="Node.js" title="Node.js" width="42px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  &nbsp;&nbsp;
-
-  <img alt="NestJS" title="NestJS" width="42px"
+  &nbsp;&nbsp; <img alt="NestJS" title="NestJS" width="42px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  &nbsp;&nbsp;
-
-  <img alt="PostgreSQL" title="PostgreSQL" width="42px"
+  &nbsp;&nbsp; <img alt="PostgreSQL" title="PostgreSQL" width="42px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  &nbsp;&nbsp;
-
-  <img alt="Prisma" title="Prisma" width="42px"
+  &nbsp;&nbsp; <img alt="Prisma" title="Prisma" width="42px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-  &nbsp;&nbsp;
-
-  <img alt="Docker" title="Docker" width="42px"
+  &nbsp;&nbsp; <img alt="Docker" title="Docker" width="42px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  &nbsp;&nbsp;
-
-  <img alt="Git" title="Git" width="42px"
+  &nbsp;&nbsp; <img alt="Git" title="Git" width="42px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
