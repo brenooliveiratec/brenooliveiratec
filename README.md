@@ -50,9 +50,9 @@ A solução centraliza **pedidos, mesas, cardápio, estoque, caixa e atendimento
 
 <br><br>
 
-[📖 Ver case completo](LINK-DO-PORTFOLIO)
+[🌐 Ver projeto](LINK) • [📖 Ver case completo](LINK-DO-PORTFOLIO)
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Tecnologias
 
 <br>
 
@@ -95,23 +95,23 @@ A solução centraliza **pedidos, mesas, cardápio, estoque, caixa e atendimento
   </a>
   &nbsp;
 
-  <a href="SEU_LINK_DO_LINKEDIN">
-    <img
-      src="https://img.icons8.com/fluency/96/linkedin.png"
-      width="52"
-      alt="LinkedIn"
-      title="LinkedIn"
-    />
-  </a>
-   &nbsp;
+  <a href="https://www.linkedin.com/in/breno-oliveira-tec">
+  <img
+    src="https://img.icons8.com/fluency/96/linkedin.png"
+    width="52"
+    alt="LinkedIn"
+    title="LinkedIn"
+  />
+</a>
+&nbsp;
 
-  <a href="mailto:brenooliveiraec@gmail.com">
-    <img
-      src="https://img.icons8.com/color/96/gmail-new.png"
-      width="52"
-      alt="Gmail"
-      title="E-mail"
-    />
-  </a>
+<a href="mailto:brenooliveiraec@gmail.com">
+  <img
+    src="https://img.icons8.com/color/96/gmail-new.png"
+    width="52"
+    alt="Gmail"
+    title="E-mail"
+  />
+</a>
 
 </div>
