@@ -40,13 +40,13 @@ CRM, gestão de leads, simulações, propostas, vendas, comissões, financeiro e
   <img src="./assets/sistema-bar-banner.png" width="700" alt="Sistema Bar">
 </p>
 
-**Sistema desenvolvido para atender a operação de um bar real.**
+**Sistema de gestão desenvolvido sob demanda para a operação de um bar real.**
 
-Solução voltada para gestão de pedidos, mesas, cardápio, estoque, caixa e operação diária do estabelecimento.
+A solução centraliza **pedidos, mesas, cardápio, estoque, caixa e atendimento**, reduzindo a desorganização da operação e proporcionando maior controle sobre o negócio.
 
-**Minha atuação:** desenvolvimento da solução a partir das necessidades reais do negócio, incluindo estrutura de dados, regras operacionais e integração com impressão de pedidos.
+**Minha atuação:** levantamento das necessidades do estabelecimento, modelagem dos dados, desenvolvimento Full Stack das regras de negócio e integração do fluxo de pedidos com impressão.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28px" title="React"/> &nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28px" title="TypeScript"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="28px" title="Node.js"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="28px" title="PostgreSQL"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="28px" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="28px" title="React"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="28px" title="TypeScript"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="28px" title="NestJS"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="28px" title="PostgreSQL"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" width="28px" title="Prisma"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="28px" title="Docker"/>
 
 <br><br>
 
